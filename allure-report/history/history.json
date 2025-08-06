@@ -1,0 +1,800 @@
+{
+  "aaa4ae9e012294ad239931177c8fb76d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "686cc2712e92c7c3",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/686cc2712e92c7c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937447102,
+        "stop" : 1753937448224,
+        "duration" : 1122
+      }
+    }, {
+      "uid" : "1da49c55136eb29e",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/1da49c55136eb29e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937447102,
+        "stop" : 1753937448224,
+        "duration" : 1122
+      }
+    }, {
+      "uid" : "3b33cd316b1ce02f",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/3b33cd316b1ce02f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937447102,
+        "stop" : 1753937448224,
+        "duration" : 1122
+      }
+    } ]
+  },
+  "6b8085bf01047ec8dd1faa6a6e267d58" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "6c7b3bc3bc358460",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/6c7b3bc3bc358460",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937360452,
+        "stop" : 1753937361746,
+        "duration" : 1294
+      }
+    }, {
+      "uid" : "df0cff78f27461fc",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/df0cff78f27461fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937360452,
+        "stop" : 1753937361746,
+        "duration" : 1294
+      }
+    }, {
+      "uid" : "15dbaf213b0eaf9d",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/15dbaf213b0eaf9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937360452,
+        "stop" : 1753937361746,
+        "duration" : 1294
+      }
+    } ]
+  },
+  "f46c14d1fcd4e44d7cb7497f45ef3c38" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "fc1935772e5dafc1",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/fc1935772e5dafc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937482512,
+        "stop" : 1753937482993,
+        "duration" : 481
+      }
+    }, {
+      "uid" : "8236c8daabe091c9",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/8236c8daabe091c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937482512,
+        "stop" : 1753937482993,
+        "duration" : 481
+      }
+    }, {
+      "uid" : "cb6860fed8cc21cf",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/cb6860fed8cc21cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937482512,
+        "stop" : 1753937482993,
+        "duration" : 481
+      }
+    } ]
+  },
+  "8aa974ed5d4e92d605d84199dd012bea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "b5cb3077babde69d",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/b5cb3077babde69d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937378214,
+        "stop" : 1753937379936,
+        "duration" : 1722
+      }
+    }, {
+      "uid" : "846b667a23d80499",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/846b667a23d80499",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937378214,
+        "stop" : 1753937379936,
+        "duration" : 1722
+      }
+    }, {
+      "uid" : "cdf0ee6ce599c424",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/cdf0ee6ce599c424",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937378214,
+        "stop" : 1753937379936,
+        "duration" : 1722
+      }
+    } ]
+  },
+  "82bd099d7a66fa3f93e41a8b386d0002" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "bf4a5e791ddfaaa3",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/bf4a5e791ddfaaa3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937477375,
+        "stop" : 1753937477914,
+        "duration" : 539
+      }
+    }, {
+      "uid" : "976728c686ce1219",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/976728c686ce1219",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937477375,
+        "stop" : 1753937477914,
+        "duration" : 539
+      }
+    }, {
+      "uid" : "e78897374fa31d3c",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/e78897374fa31d3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937477375,
+        "stop" : 1753937477914,
+        "duration" : 539
+      }
+    } ]
+  },
+  "7cca323a1757204182d524bf2594eb91" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "341579874e0e2555",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/341579874e0e2555",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937452830,
+        "stop" : 1753937454136,
+        "duration" : 1306
+      }
+    }, {
+      "uid" : "88b24747f85a8fda",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/88b24747f85a8fda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937452830,
+        "stop" : 1753937454136,
+        "duration" : 1306
+      }
+    }, {
+      "uid" : "6eec3e53856e6906",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/6eec3e53856e6906",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937452830,
+        "stop" : 1753937454136,
+        "duration" : 1306
+      }
+    } ]
+  },
+  "972b5ed133c22ef46b60979a584c4aec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "28b8656a3565a4e5",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/28b8656a3565a4e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937435482,
+        "stop" : 1753937436781,
+        "duration" : 1299
+      }
+    }, {
+      "uid" : "9195554397b15105",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/9195554397b15105",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937435482,
+        "stop" : 1753937436781,
+        "duration" : 1299
+      }
+    }, {
+      "uid" : "b6a692e15b9bd3ed",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/b6a692e15b9bd3ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937435482,
+        "stop" : 1753937436781,
+        "duration" : 1299
+      }
+    } ]
+  },
+  "7bf1faaae136439ed78f087b1aa5bb41" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "8185b94d9d1dd691",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/8185b94d9d1dd691",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937384800,
+        "stop" : 1753937386462,
+        "duration" : 1662
+      }
+    }, {
+      "uid" : "a8e5d374f311201",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/a8e5d374f311201",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937384800,
+        "stop" : 1753937386462,
+        "duration" : 1662
+      }
+    }, {
+      "uid" : "2aa4b5ad8132b27c",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/2aa4b5ad8132b27c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937384800,
+        "stop" : 1753937386462,
+        "duration" : 1662
+      }
+    } ]
+  },
+  "bea45cb9342a8160d73cfcb7f851b14d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "cc34269db614f05f",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/cc34269db614f05f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937396390,
+        "stop" : 1753937398319,
+        "duration" : 1929
+      }
+    }, {
+      "uid" : "fd457d7309da4da6",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/fd457d7309da4da6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937396390,
+        "stop" : 1753937398319,
+        "duration" : 1929
+      }
+    }, {
+      "uid" : "c83cc8cf61769b2f",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/c83cc8cf61769b2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937396390,
+        "stop" : 1753937398319,
+        "duration" : 1929
+      }
+    } ]
+  },
+  "cdf09dbb7078dc28f36cfcdbd3f1c6fa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "9bdef629c735d309",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/9bdef629c735d309",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937429603,
+        "stop" : 1753937430961,
+        "duration" : 1358
+      }
+    }, {
+      "uid" : "a46638bc04435902",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/a46638bc04435902",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937429603,
+        "stop" : 1753937430961,
+        "duration" : 1358
+      }
+    }, {
+      "uid" : "a0eb1782f9cdffeb",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/a0eb1782f9cdffeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937429603,
+        "stop" : 1753937430961,
+        "duration" : 1358
+      }
+    } ]
+  },
+  "0902535b0d5357f1e6d4519b3d7b8507" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "d7b0d1870bf9f17c",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/d7b0d1870bf9f17c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937404059,
+        "stop" : 1753937407342,
+        "duration" : 3283
+      }
+    }, {
+      "uid" : "9c73eaebed325a6b",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/9c73eaebed325a6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937404059,
+        "stop" : 1753937407342,
+        "duration" : 3283
+      }
+    }, {
+      "uid" : "18170281a12416a0",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/18170281a12416a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937404059,
+        "stop" : 1753937407342,
+        "duration" : 3283
+      }
+    } ]
+  },
+  "b89ccf714f2c4e81463b486344536c5c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "af1fc852cf94da67",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/af1fc852cf94da67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937464605,
+        "stop" : 1753937466421,
+        "duration" : 1816
+      }
+    }, {
+      "uid" : "3f524fa33dc35e2",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/3f524fa33dc35e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937464605,
+        "stop" : 1753937466421,
+        "duration" : 1816
+      }
+    }, {
+      "uid" : "9389728f733f4ed0",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/9389728f733f4ed0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937464605,
+        "stop" : 1753937466421,
+        "duration" : 1816
+      }
+    } ]
+  },
+  "5c54d5a33e600bd0f5fb0fa126901c25" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "8ab4df715539044e",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/8ab4df715539044e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937441312,
+        "stop" : 1753937442617,
+        "duration" : 1305
+      }
+    }, {
+      "uid" : "10724a4211168148",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/10724a4211168148",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937441312,
+        "stop" : 1753937442617,
+        "duration" : 1305
+      }
+    }, {
+      "uid" : "111483c3b914d3a5",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/111483c3b914d3a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937441312,
+        "stop" : 1753937442617,
+        "duration" : 1305
+      }
+    } ]
+  },
+  "973f87a1380b6aa4274ab30813e94ea2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "b5d13c2b24485be6",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/b5d13c2b24485be6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937371668,
+        "stop" : 1753937373603,
+        "duration" : 1935
+      }
+    }, {
+      "uid" : "18918d32c2336d7",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/18918d32c2336d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937371668,
+        "stop" : 1753937373603,
+        "duration" : 1935
+      }
+    }, {
+      "uid" : "c6ac302b7d212a1c",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/c6ac302b7d212a1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937371668,
+        "stop" : 1753937373603,
+        "duration" : 1935
+      }
+    } ]
+  },
+  "149b88adbee377c2cc10aa1019d69272" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "34eb235c107c70c8",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/34eb235c107c70c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937390930,
+        "stop" : 1753937392343,
+        "duration" : 1413
+      }
+    }, {
+      "uid" : "10e9106c95de4a8d",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/10e9106c95de4a8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937390930,
+        "stop" : 1753937392343,
+        "duration" : 1413
+      }
+    }, {
+      "uid" : "d4b87682ce463eb",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/d4b87682ce463eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937390930,
+        "stop" : 1753937392343,
+        "duration" : 1413
+      }
+    } ]
+  },
+  "f6bbab7b2da989ca19b9c994b98f8a4c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "b1e7f307d9de3e75",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/b1e7f307d9de3e75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937487533,
+        "stop" : 1753937487934,
+        "duration" : 401
+      }
+    }, {
+      "uid" : "b4aa216a138fed78",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/b4aa216a138fed78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937487533,
+        "stop" : 1753937487934,
+        "duration" : 401
+      }
+    }, {
+      "uid" : "8905f13d1a346003",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/8905f13d1a346003",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937487533,
+        "stop" : 1753937487934,
+        "duration" : 401
+      }
+    } ]
+  },
+  "c3cff215096eab1cd0029d42ee65d663" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "90719cfdf9227c97",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/90719cfdf9227c97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937411946,
+        "stop" : 1753937413316,
+        "duration" : 1370
+      }
+    }, {
+      "uid" : "9863285079414cff",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/9863285079414cff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937411946,
+        "stop" : 1753937413316,
+        "duration" : 1370
+      }
+    }, {
+      "uid" : "6a08ceddf9ec5a70",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/6a08ceddf9ec5a70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937411946,
+        "stop" : 1753937413316,
+        "duration" : 1370
+      }
+    } ]
+  },
+  "0729c8855ca00a1c62f5cf96422d7372" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "8944157c9d98e000",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/8944157c9d98e000",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937366418,
+        "stop" : 1753937367708,
+        "duration" : 1290
+      }
+    }, {
+      "uid" : "6ca480758ca746",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/6ca480758ca746",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937366418,
+        "stop" : 1753937367708,
+        "duration" : 1290
+      }
+    }, {
+      "uid" : "af7813a7555cb5c9",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/af7813a7555cb5c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937366418,
+        "stop" : 1753937367708,
+        "duration" : 1290
+      }
+    } ]
+  },
+  "8bd07c179dddc5efae7be4f3daf8cbbd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "6c48e1d81fc68ef0",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/6c48e1d81fc68ef0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937423142,
+        "stop" : 1753937425156,
+        "duration" : 2014
+      }
+    }, {
+      "uid" : "cf287f1dbc871e1c",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/cf287f1dbc871e1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937423142,
+        "stop" : 1753937425156,
+        "duration" : 2014
+      }
+    }, {
+      "uid" : "4da4085653ee1441",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/4da4085653ee1441",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937423142,
+        "stop" : 1753937425156,
+        "duration" : 2014
+      }
+    } ]
+  },
+  "aa71a0ff3e71a6e73fd3f01b8b6af029" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "f113e37cdeaa61ec",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/f113e37cdeaa61ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937470997,
+        "stop" : 1753937472786,
+        "duration" : 1789
+      }
+    }, {
+      "uid" : "cb8bb696040726aa",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/cb8bb696040726aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937470997,
+        "stop" : 1753937472786,
+        "duration" : 1789
+      }
+    }, {
+      "uid" : "e6b84ffb8f8a567a",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/e6b84ffb8f8a567a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937470997,
+        "stop" : 1753937472786,
+        "duration" : 1789
+      }
+    } ]
+  },
+  "769c93a534d5f1807f36699298acad8d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "9003e5d6fe8b3ea6",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure/#testresult/9003e5d6fe8b3ea6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937458713,
+        "stop" : 1753937460082,
+        "duration" : 1369
+      }
+    }, {
+      "uid" : "1df241c035ae1cda",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure/#testresult/1df241c035ae1cda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937458713,
+        "stop" : 1753937460082,
+        "duration" : 1369
+      }
+    }, {
+      "uid" : "16ae2ff8c0558c36",
+      "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure/#testresult/16ae2ff8c0558c36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1753937458713,
+        "stop" : 1753937460082,
+        "duration" : 1369
+      }
+    } ]
+  }
+}

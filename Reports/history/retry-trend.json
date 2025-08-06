@@ -1,0 +1,33 @@
+[ {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/TNP_Python/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:8080/job/TNP_Python/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 21,
+    "retry" : 1
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8080/job/TNP_Python/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 21,
+    "retry" : 1
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:8080/job/TNP_Python/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 21,
+    "retry" : 1
+  }
+} ]
